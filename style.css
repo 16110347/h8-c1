@@ -1,0 +1,12 @@
+h6 {
+    background-color: aqua;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: black;
+
+}
+
+h2 {
+    width: 100px;
+    background-color: blue;
+}
